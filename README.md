@@ -1,4 +1,5 @@
 # Practical **checklists, setup guides, and workflows** for Sage 50 (Canadian Edition)
+
 Practical **checklists, setup guides, and workflows** for Sage 50 (Canadian Edition).
 This repository also publishes a GitHub Pages documentation site using the **Just the Docs** theme.
 
