@@ -5,13 +5,10 @@ parent: Processes
 nav_order: 60
 ---
 # Troubleshooting
-
----
+##
 title: Troubleshooting & Gotchas
-tags: [tips, troubleshooting]
----
 
-# Troubleshooting & Gotchas
+## tags: [tips, troubleshooting]
 
 - **ODBC driver mismatch**: 32‑bit vs 64‑bit DSN. Ensure your querying tool matches the driver bitness.
 - **Read‑only ODBC**: Most open approaches are read‑only. Writing typically requires the Sage SDK.

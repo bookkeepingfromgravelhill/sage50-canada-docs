@@ -13,4 +13,4 @@ Use the left navigation or start here:
 - **Setup & Integrations** → ODBC, QIF/OFX, GST/HST
 - **Processes** → Reconciliations, payroll, troubleshooting
 
-> Note: Templates (CSV/INI/sign‑off sheets) are in the repository under `/templates/`. 
+> Note: Templates (CSV/INI/sign‑off sheets) are in the repository under `/templates/`.

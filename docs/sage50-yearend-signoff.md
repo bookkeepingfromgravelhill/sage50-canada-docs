@@ -5,23 +5,23 @@ parent: Checklists
 nav_order: 90
 ---
 # Year-End Sign-off
-
----
+##
 title: "Sage 50 Canadian - Year-End Sign-Off Sheet"
 date: 2025-10-03
 tags: [accounting, sage50, year-end, signoff, internal-control]
-status: final
----
 
-Company:                             Fiscal Year End:          
+## status: final
 
-Prepared by (Bookkeeper):                           Date:             
-Reviewed by (Owner/Director):                       Date:             
-Accountant (External) Adjustments Received:  Yes [ ]  No [ ]   Date:     
+Company:                             Fiscal Year End:
+
+Prepared by (Bookkeeper):                           Date:
+Reviewed by (Owner/Director):                       Date:
+Accountant (External) Adjustments Received:  Yes [ ]  No [ ]   Date:
 
 This sign-off confirms completion of the year-end close per the unified checklist and that the accountant package has been delivered.
 
 ## A) Pre-Close and Reconciliations
+
 - [ ] All transactions for fiscal year posted; inventory count completed/adjusted
 - [ ] All bank and credit card accounts reconciled through year-end
 - [ ] A/R and A/P subledgers agree to GL control accounts
@@ -29,6 +29,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] Suspense/clearing accounts at zero
 
 ## B) Reports Archived (PDF or Excel)
+
 - [ ] Income Statement (full fiscal year)
 - [ ] Balance Sheet (as of year-end)
 - [ ] Trial Balance (entire fiscal year)
@@ -39,6 +40,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] Payroll summary (module or external)
 
 ## C) Accountant Package Delivered
+
 - [ ] Year-end Sage backup provided
 - [ ] TB, GL Detail, AR/AP Aging, GST/HST, final bank and CC recs provided
 - [ ] Fixed asset additions/disposals and inventory count provided
@@ -46,6 +48,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] CRA filings for the year included
 
 ## D) Post-Adjustments and Roll Forward
+
 - [ ] Accountant AJEs entered and verified
 - [ ] Recurring entries set for the new year
 - [ ] Budgets updated for the new year
@@ -54,10 +57,10 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] Post-year-end backup saved
 
 ## E) Exceptions / Outstanding Items
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## F) Final Approvals
-Prepared by:                               Date:           
-Reviewed/Approved (Owner/Director):        Date:           
+Prepared by:                               Date:
+Reviewed/Approved (Owner/Director):        Date:

@@ -5,13 +5,10 @@ parent: Checklists
 nav_order: 30
 ---
 # Year End Checklist
-
----
+##
 title: Year‑End Checklist
-tags: [year-end, checklist]
----
 
-# Year‑End Checklist
+## tags: [year-end, checklist]
 
 - [ ] Complete all monthly-close tasks for the final period.
 - [ ] Inventory count/adjustments (if applicable).

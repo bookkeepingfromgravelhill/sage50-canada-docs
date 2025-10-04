@@ -1,0 +1,17 @@
+// markdownlint configuration
+{
+  // Allow long lines (docs often contain URLs/tables/checklists)
+  "MD013": false,
+  // Prefer ATX (#) headings
+  "MD003": { "style": "atx" },
+  // Ensure a single H1 per page (we'll enforce via content changes too)
+  "MD025": true,
+  // Require blank lines around headings
+  "MD022": true,
+  // Require blank lines around lists
+  "MD032": true,
+  // Require blank lines around fenced code
+  "MD031": true,
+  // Require language for fenced code
+  "MD040": true
+}

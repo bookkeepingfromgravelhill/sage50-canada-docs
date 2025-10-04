@@ -1,6 +1,4 @@
-# Sage 50 Canada — Docs
-
-Practical **checklists, setup guides, and workflows** for Sage 50 (Canadian Edition).  
+Practical **checklists, setup guides, and workflows** for Sage 50 (Canadian Edition).
 This repository also publishes a GitHub Pages documentation site using the **Just the Docs** theme.
 
 ## Contents
@@ -12,7 +10,8 @@ This repository also publishes a GitHub Pages documentation site using the **Jus
 
 ## Local structure
 
-```
+
+```text
 /
 ├─ _config.yml            # Jekyll settings (Just the Docs)
 ├─ index.md               # Site landing page
@@ -21,8 +20,8 @@ This repository also publishes a GitHub Pages documentation site using the **Jus
 ├─ assets/files/          # Downloadable PDFs and attachments
 ├─ LICENSES/              # License files
 └─ .github/workflows/     # Linting workflows (markdownlint, link check)
-```
 
+```text
 ## How to publish with GitHub Pages
 
 1. Push to the `main` branch.
@@ -38,6 +37,7 @@ To have a `/doc/` path on the main site point to these docs, add a redirect page
 
 Create `doc/index.html` with:
 
+
 ```html
 <!doctype html>
 <meta charset="utf-8">
@@ -45,8 +45,8 @@ Create `doc/index.html` with:
 <link rel="canonical" href="https://bookkeepingfromgravelhill.github.io/sage50-canada-docs/">
 <title>Redirecting…</title>
 <a href="https://bookkeepingfromgravelhill.github.io/sage50-canada-docs/">Redirecting to docs…</a>
-```
 
+```text
 (If you later add a `CNAME`/custom domain for the docs, update the URL in the redirect accordingly.)
 
 ## Contributing

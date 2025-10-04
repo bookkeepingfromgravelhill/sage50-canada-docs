@@ -5,13 +5,10 @@ parent: Processes
 nav_order: 50
 ---
 # Reconciliation Workflow
-
----
+##
 title: Bank/Credit Card Reconciliation Workflow
-tags: [bank, reconciliation]
----
 
-# Bank/Credit Card Reconciliation Workflow
+## tags: [bank, reconciliation]
 
 1. Import transactions (QIF/OFX).
 2. Match known vendors; create new vendor rules as needed.

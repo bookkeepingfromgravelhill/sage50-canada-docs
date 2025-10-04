@@ -1,0 +1,7 @@
+# Lychee link checker configuration
+# Do not fail if no links are found (common in early repos or private builds)
+fail_if_empty = false
+# Optional: ignore localhost and mailto
+exclude = ["^mailto:", "^http://localhost", "^http://127\.0\.0\.1"]
+# Be gentle
+max_concurrency = 10
