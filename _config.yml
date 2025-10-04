@@ -1,16 +1,13 @@
 title: Sage 50 Canada Docs
-description: Practical checklists, setup guides, and workflows for Sage 50 (Canadian Edition).
-baseurl: "" # project page will set this automatically
-url: ""
-
+description: Practical checklists, setup guides, and workflows for Sage 50 (Canadian
+  Edition).
+baseurl: /sage50-canada-docs
+url: https://ledger.fromgravelhill.ca
 remote_theme: just-the-docs/just-the-docs
-
-# Just the Docs settings
 search_enabled: true
 aux_links:
   Main Site (ledger.fromgravelhill.ca): https://ledger.fromgravelhill.ca
-
-# Collections (using default 'pages' only)
 color_scheme: nil
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
+heading_anchors: true

@@ -25,8 +25,40 @@ This repository also publishes a GitHub Pages documentation site using the **Jus
 ├─ LICENSES/              # License files
 └─ .github/workflows/     # Linting workflows (markdownlint, link check)
 
-```
+```text
+text
 
+## How to publish with GitHub Pages
+
+1. Push to the `main` branch.
+
+2. In **Repository → Settings → Pages**:
+
+   - **Source**: `Deploy from a branch`
+
+   - **Branch**: `main` / **root** (`/`)
+
+3. GitHub will build the site (Jekyll + remote theme `just-the-docs/just-the-docs`).
+
+### Linking from the main site (ledger.fromgravelhill.ca)
+
+To have a `/doc/` path on the main site point to these docs, add a redirect page in your main site repo
+[`bookkeepingfromgravelhill/bookkeepingfromgravelhill.github.io`](https://github.com/bookkeepingfromgravelhill/bookkeepingfromgravelhill.github.io):
+
+Create `doc/index.html` with:
+
+```text
+html
+<!doctype html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=https://bookkeepingfromgravelhill.github.io/sage50-canada-docs/">
+<link rel="canonical" href="https://bookkeepingfromgravelhill.github.io/sage50-canada-docs/">
+<title>Redirecting…</title>
+<a href="https://bookkeepingfromgravelhill.github.io/sage50-canada-docs/">Redirecting to docs…</a>
+
+```text
+text
+(If you later add a `CNAME`/custom domain for the docs, update the URL in the redirect accordingly.)
 
 ## Contributing
 
