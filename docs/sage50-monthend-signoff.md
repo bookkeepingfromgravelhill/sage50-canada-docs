@@ -5,7 +5,7 @@ parent: Checklists
 nav_order: 70
 ---
 # Month-End Sign-off
-##
+
 title: "Sage 50 Canadian - Month-End Sign-Off Sheet"
 date: 2025-10-03
 tags: [accounting, sage50, month-end, signoff, internal-control]
@@ -21,6 +21,7 @@ This sign-off confirms that the month-end close tasks below were completed and e
 
 ## A) Reconciliations
 
+
 - [ ] Bank account(s) reconciled to statement date
 - [ ] Credit card account(s) reconciled
 - [ ] Petty cash counted / reconciled (if applicable)
@@ -29,6 +30,7 @@ This sign-off confirms that the month-end close tasks below were completed and e
 - [ ] Undeposited funds / clearing accounts are zero
 
 ## B) Reports Saved (PDF or Excel) in /Finance/MonthEnd/{YYYY-MM}/Month-End Reports/
+
 
 - [ ] Bank Reconciliation Report(s)
 - [ ] Credit Card Reconciliation Report(s)
@@ -42,6 +44,7 @@ This sign-off confirms that the month-end close tasks below were completed and e
 
 ## C) Compliance and Reviews
 
+
 - [ ] GST/HST prepared (if month/period end) and ties to GL
 - [ ] Inventory valuation agrees to GL (if tracked)
 - [ ] Projects/Jobs WIP posted (if used)
@@ -49,6 +52,7 @@ This sign-off confirms that the month-end close tasks below were completed and e
 - [ ] Source documents filed (physical and digital)
 
 ## D) Backups and Locks
+
 
 - [ ] Sage backup saved (PRE-MONTHEND-YYYY-MM.cab)
 - [ ] Sage backup saved (POST-MONTHEND-YYYY-MM.cab)

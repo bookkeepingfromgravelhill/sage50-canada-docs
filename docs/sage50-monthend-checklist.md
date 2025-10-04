@@ -5,7 +5,7 @@ parent: Checklists
 nav_order: 60
 ---
 # Month-End Checklist (Alternate)
-##
+
 title: "Sage 50 Canadian — Month-End (Unified Checklist + Filing Reference)"
 date: 2025-10-02
 tags: [accounting, sage50, month-end, checklist, filing]
@@ -16,6 +16,7 @@ tags: [accounting, sage50, month-end, checklist, filing]
 
 ## 1) Pre-Close
 
+
 - [ ] Post all **sales** invoices & receipts (Customers & Sales).
 - [ ] Post all **purchase** invoices & payments (Vendors & Purchases).
 - [ ] Post **payroll** (or record manual payroll JEs if using external payroll).
@@ -25,6 +26,7 @@ tags: [accounting, sage50, month-end, checklist, filing]
 
 ## 2) Reconciliations
 
+
 - [ ] **Bank** accounts reconciled to statement date (Reports → Banking → Account Reconciliation).
 - [ ] **Credit card(s)** reconciled (Reports → Credit Cards → Account Reconciliation).
 - [ ] **Petty cash** counted / reconciled (if applicable).
@@ -33,6 +35,7 @@ tags: [accounting, sage50, month-end, checklist, filing]
 - [ ] **Undeposited funds / clearing** accounts are **zero** at close.
 
 ## 3) Reviews
+
 
 - [ ] **A/R Aging**: follow up past-due; note expected collections.
 - [ ] **A/P Aging**: schedule payments; take discounts where available.
@@ -45,20 +48,24 @@ Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 **Bank & Credit Card**
 
+
 - [ ] Bank Reconciliation Report — *Reports → Banking → Account Reconciliation*
 - [ ] Credit Card Reconciliation Report — *Reports → Credit Cards → Account Reconciliation*
 
 **Aged Reports**
+
 
 - [ ] Aged Receivables (as of month-end) — *Reports → Customers & Sales → Aged Receivables*
 - [ ] Aged Payables (as of month-end) — *Reports → Vendors & Purchases → Aged Payables*
 
 **Financials**
 
+
 - [ ] Income Statement (month & YTD) — *Reports → Financials → Income Statement*
 - [ ] Balance Sheet (as of month-end) — *Reports → Financials → Balance Sheet*
 
 **Ledgers**
+
 
 - [ ] General Ledger Detail (month) — *Reports → General Ledger → General Ledger Detail*
 - [ ] Vendor Ledger (optional) — *Reports → Vendors & Purchases → Vendor Ledger*
@@ -66,19 +73,23 @@ Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 **Taxes**
 
+
 - [ ] Sales Tax Report — *Reports → Taxes → Sales Tax Report*
 
 **Payroll (if no Sage Payroll add-on)**
 
+
 - [ ] Payroll Expense GL Detail (filter payroll accounts) — *Reports → General Ledger → General Ledger Detail*
 
 **Naming convention**
+
 
 - Save as: `{{YYYY-MM}} - {{ReportName}}.pdf` (e.g., `2025-09 - Aged Receivables.pdf`).
 
 ## 5) Filing & Archiving
 
 ### A) Physical (Monthly Binder + Source Documents)
+
 
 - **Binders (tabbed):** Bank, Credit Card, Receivables, Payables, Financials, Ledgers, Taxes, Payroll.
 - **Source folders:** Bank, Credit Card, Sales, Purchases, Receipts, CRA.
@@ -90,6 +101,7 @@ Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 ### B) Digital (Consistent Tree + Backups)
 
+
 - **Folder structure:** `…/Finance/{{YYYY}}/{{YYYY-MM}}/{Bank Statements|Credit Card Statements|Sales Invoices|Purchase Invoices|Receipts|CRA|Month-End Reports}`
 - **File names:** `{{YYYY-MM-DD}} - {{Vendor}} - {{Type}} - {{Amount}}.pdf`
 - **Backups:**
@@ -98,6 +110,7 @@ Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 ### C) Best Practices
 
+
 - Use the **same names/structure** every month.
 - **Scan fragile/fading receipts** immediately.
 - **Purge duplicates**; retain only what’s required (CRA: **7 years**).
@@ -105,12 +118,14 @@ Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 ## 6) Completion Checks
 
+
 - [ ] All reports saved (digital) and filed (binder).
 - [ ] All receipts/invoices filed physically & digitally.
 - [ ] AR/AP reconciliations match GL controls.
 - [ ] Sales tax return prepared (if period end) and GL ties.
 
 ## 7) Close & Lock
+
 
 - [ ] Backup: `POST-MONTHEND-{{YYYY-MM}}.cab`.
 - [ ] **Lock prior dates** to prevent changes (Settings → Company → System).

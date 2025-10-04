@@ -5,10 +5,11 @@ parent: Setup & Integrations
 nav_order: 60
 ---
 # Odbc Setup Windows
-##
+
 title: ODBC Setup (Windows)
 
 ## tags: [odbc, windows, sage50, canada]
+
 
 1. Install Sage 50 (Canadian Edition) on the machine with the company dataset.
 2. Open **ODBC Data Sources (64-bit)**. Create a **System DSN** using *Sage 50* ODBC Driver.

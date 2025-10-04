@@ -5,7 +5,7 @@ parent: Checklists
 nav_order: 90
 ---
 # Year-End Sign-off
-##
+
 title: "Sage 50 Canadian - Year-End Sign-Off Sheet"
 date: 2025-10-03
 tags: [accounting, sage50, year-end, signoff, internal-control]
@@ -22,6 +22,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 
 ## A) Pre-Close and Reconciliations
 
+
 - [ ] All transactions for fiscal year posted; inventory count completed/adjusted
 - [ ] All bank and credit card accounts reconciled through year-end
 - [ ] A/R and A/P subledgers agree to GL control accounts
@@ -29,6 +30,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] Suspense/clearing accounts at zero
 
 ## B) Reports Archived (PDF or Excel)
+
 
 - [ ] Income Statement (full fiscal year)
 - [ ] Balance Sheet (as of year-end)
@@ -41,6 +43,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 
 ## C) Accountant Package Delivered
 
+
 - [ ] Year-end Sage backup provided
 - [ ] TB, GL Detail, AR/AP Aging, GST/HST, final bank and CC recs provided
 - [ ] Fixed asset additions/disposals and inventory count provided
@@ -48,6 +51,7 @@ This sign-off confirms completion of the year-end close per the unified checklis
 - [ ] CRA filings for the year included
 
 ## D) Post-Adjustments and Roll Forward
+
 
 - [ ] Accountant AJEs entered and verified
 - [ ] Recurring entries set for the new year
