@@ -3,6 +3,7 @@ layout: default
 title: Gst Hst Setup
 parent: Setup & Integrations
 nav_order: 3
+grand_parent: Documents
 ---
 
 # Gst Hst Setup

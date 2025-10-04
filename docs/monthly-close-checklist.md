@@ -3,6 +3,7 @@ layout: default
 title: Monthly Close Checklist
 parent: Checklists
 nav_order: 1
+grand_parent: Documents
 ---
 
 # Monthly Close Checklist

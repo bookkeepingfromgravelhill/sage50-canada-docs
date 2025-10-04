@@ -3,6 +3,7 @@ layout: default
 title: Bank Imports Qif Ofx
 parent: Setup & Integrations
 nav_order: 2
+grand_parent: Documents
 ---
 
 # Bank Imports Qif Ofx

@@ -3,6 +3,7 @@ layout: default
 title: Troubleshooting
 parent: Processes
 nav_order: 3
+grand_parent: Documents
 ---
 
 # Troubleshooting

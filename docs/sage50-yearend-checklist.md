@@ -3,6 +3,7 @@ layout: default
 title: Year-End Checklist (Alternate)
 parent: Checklists
 nav_order: 4
+grand_parent: Documents
 ---
 
 # Year-End Checklist (Alternate)

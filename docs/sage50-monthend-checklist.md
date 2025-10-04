@@ -3,6 +3,7 @@ layout: default
 title: Month-End Checklist (Alternate)
 parent: Checklists
 nav_order: 2
+grand_parent: Documents
 ---
 
 # Month-End Checklist (Alternate)

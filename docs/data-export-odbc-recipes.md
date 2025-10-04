@@ -3,6 +3,7 @@ layout: default
 title: Data Export Odbc Recipes
 parent: Setup & Integrations
 nav_order: 4
+grand_parent: Documents
 ---
 
 # Data Export Odbc Recipes

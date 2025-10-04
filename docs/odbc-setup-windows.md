@@ -3,6 +3,7 @@ layout: default
 title: Odbc Setup Windows
 parent: Setup & Integrations
 nav_order: 1
+grand_parent: Documents
 ---
 
 # Odbc Setup Windows

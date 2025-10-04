@@ -6,18 +6,10 @@ url: https://ledger.fromgravelhill.ca
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 aux_links:
-  Main Site (ledger.fromgravelhill.ca): https://ledger.fromgravelhill.ca
+  Main Site: https://ledger.fromgravelhill.ca
 color_scheme: nil
 plugins:
 - jekyll-remote-theme
 heading_anchors: true
-collections:
-  docs:
-    output: true
-    permalink: /docs/:path/
-just_the_docs:
-  collections:
-    docs:
-      name: Documents
-      nav_exclude: false
+just_the_docs: {}
 logo: null

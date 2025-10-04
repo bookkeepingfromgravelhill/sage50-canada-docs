@@ -3,6 +3,7 @@ layout: default
 title: HST Quarterly Remittance
 parent: Checklists
 nav_order: 6
+grand_parent: Documents
 ---
 
 # HST Quarterly Remittance
