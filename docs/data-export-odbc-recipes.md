@@ -14,28 +14,35 @@ title: Data Export via ODBC — Recipes
 
 ## Examples (pseudo-table names; inspect your DSN for actual table names)
 
-
 - **GL transactions (by date range)**
+
 ```sql
 SELECT TxnDate, Source, Account, Debit, Credit, Memo
 FROM GLTransactions
 WHERE TxnDate BETWEEN '2025-01-01' AND '2025-01-31'
 ORDER BY TxnDate, Source;
-```
+
+```text
 text
 
 - **Customer list**
-```sql
+
+```text
+sql
 SELECT CustomerID, Name, Email, Phone, Terms
 FROM Customers
 ORDER BY Name;
-```
+
+```text
 text
 
 - **Supplier list**
-```sql
+
+```text
+sql
 SELECT VendorID, Name, Email, Phone, Terms
 FROM Vendors
 ORDER BY Name;
-```
+
+```text
 text
