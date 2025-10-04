@@ -2,8 +2,9 @@
 layout: default
 title: Year End Checklist
 parent: Checklists
-nav_order: 30
+nav_order: 7
 ---
+
 # Year End Checklist
 
 title: Year‑End Checklist

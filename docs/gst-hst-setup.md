@@ -2,8 +2,9 @@
 layout: default
 title: Gst Hst Setup
 parent: Setup & Integrations
-nav_order: 50
+nav_order: 3
 ---
+
 # Gst Hst Setup
 
 title: GST/HST Setup Notes

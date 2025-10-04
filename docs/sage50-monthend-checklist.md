@@ -2,8 +2,9 @@
 layout: default
 title: Month-End Checklist (Alternate)
 parent: Checklists
-nav_order: 60
+nav_order: 2
 ---
+
 # Month-End Checklist (Alternate)
 
 title: "Sage 50 Canadian — Month-End (Unified Checklist + Filing Reference)"

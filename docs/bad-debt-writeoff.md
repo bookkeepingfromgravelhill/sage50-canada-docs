@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Bad Debt Write-off
-parent: Processes
-nav_order: 80
+parent: Checklists
+nav_order: 8
 ---
+
 # Bad Debt Write-off
 
 title: "Bad Debt Write-Off Workflow"

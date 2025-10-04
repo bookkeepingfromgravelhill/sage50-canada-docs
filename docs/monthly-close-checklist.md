@@ -2,8 +2,9 @@
 layout: default
 title: Monthly Close Checklist
 parent: Checklists
-nav_order: 20
+nav_order: 1
 ---
+
 # Monthly Close Checklist
 
 title: Monthly Close Checklist

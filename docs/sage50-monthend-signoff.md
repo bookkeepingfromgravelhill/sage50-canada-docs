@@ -2,8 +2,9 @@
 layout: default
 title: Month-End Sign-off
 parent: Checklists
-nav_order: 70
+nav_order: 3
 ---
+
 # Month-End Sign-off
 
 title: "Sage 50 Canadian - Month-End Sign-Off Sheet"

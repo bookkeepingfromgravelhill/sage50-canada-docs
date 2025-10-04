@@ -2,8 +2,9 @@
 layout: default
 title: Troubleshooting
 parent: Processes
-nav_order: 60
+nav_order: 3
 ---
+
 # Troubleshooting
 
 title: Troubleshooting & Gotchas

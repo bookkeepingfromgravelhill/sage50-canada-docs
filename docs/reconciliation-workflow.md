@@ -2,8 +2,9 @@
 layout: default
 title: Reconciliation Workflow
 parent: Processes
-nav_order: 50
+nav_order: 1
 ---
+
 # Reconciliation Workflow
 
 title: Bank/Credit Card Reconciliation Workflow

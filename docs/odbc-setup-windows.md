@@ -2,8 +2,9 @@
 layout: default
 title: Odbc Setup Windows
 parent: Setup & Integrations
-nav_order: 60
+nav_order: 1
 ---
+
 # Odbc Setup Windows
 
 title: ODBC Setup (Windows)

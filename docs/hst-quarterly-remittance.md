@@ -2,8 +2,9 @@
 layout: default
 title: HST Quarterly Remittance
 parent: Checklists
-nav_order: 50
+nav_order: 6
 ---
+
 # HST Quarterly Remittance
 
 title: "HST Quarterly Remittance Workflow"

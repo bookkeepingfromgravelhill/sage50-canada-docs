@@ -2,7 +2,9 @@
 layout: default
 title: Home
 nav_order: 1
+nav_exclude: true
 ---
+
 This site collects practical **checklists, setup recipes, and workflows** for running Sage 50 (Canadian Edition) efficiently.
 
 Use the left navigation or start here:

@@ -2,8 +2,9 @@
 layout: default
 title: Bank Imports Qif Ofx
 parent: Setup & Integrations
-nav_order: 30
+nav_order: 2
 ---
+
 # Bank Imports Qif Ofx
 
 title: Bank Imports (QIF/OFX)

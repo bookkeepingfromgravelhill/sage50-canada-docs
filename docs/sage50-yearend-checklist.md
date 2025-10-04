@@ -2,8 +2,9 @@
 layout: default
 title: Year-End Checklist (Alternate)
 parent: Checklists
-nav_order: 80
+nav_order: 4
 ---
+
 # Year-End Checklist (Alternate)
 
 title: "Sage 50 Canadian — Year-End Checklist (Unified)"

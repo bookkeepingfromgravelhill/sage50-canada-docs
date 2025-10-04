@@ -2,8 +2,9 @@
 layout: default
 title: Data Export Odbc Recipes
 parent: Setup & Integrations
-nav_order: 40
+nav_order: 4
 ---
+
 # Data Export Odbc Recipes
 
 title: Data Export via ODBC — Recipes

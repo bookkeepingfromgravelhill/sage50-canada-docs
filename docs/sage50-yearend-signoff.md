@@ -2,8 +2,9 @@
 layout: default
 title: Year-End Sign-off
 parent: Checklists
-nav_order: 90
+nav_order: 5
 ---
+
 # Year-End Sign-off
 
 title: "Sage 50 Canadian - Year-End Sign-Off Sheet"
