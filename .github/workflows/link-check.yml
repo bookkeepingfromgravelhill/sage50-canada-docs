@@ -13,6 +13,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
-          args: "--config .lychee.toml --fail-if-empty=false **/*.md"
+          failIfEmpty: false
+          args: "--config .lychee.toml **/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

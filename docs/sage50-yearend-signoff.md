@@ -84,5 +84,6 @@ This sign-off confirms completion of the year-end close per the unified checklis
 3.
 
 ## F) Final Approvals
+
 Prepared by:                               Date:
 Reviewed/Approved (Owner/Director):        Date:

@@ -83,5 +83,6 @@ This sign-off confirms that the month-end close tasks below were completed and e
 3.
 
 ## F) Signatures
+
 Prepared by:                               Date:
 Reviewed/Approved (Owner/Director):        Date:

@@ -55,6 +55,7 @@ tags: [accounting, sage50, month-end, checklist, filing]
 - [ ] **Projects/Jobs (WIP)** reviewed and posted (if used).
 
 ## 4) Standard Reports to Save (PDF or Excel)
+
 Save into: `/Finance/MonthEnd/{{YYYY-MM}}/Month-End Reports/`
 
 **Bank & Credit Card**
